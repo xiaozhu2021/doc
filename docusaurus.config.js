@@ -1,14 +1,14 @@
 module.exports = {
-  title: 'Xiaozhu API Doc',
-  tagline: '小猪的API文档',
-  url: 'https://your-docusaurus-test-site.com',
+  title: '小猪的API文档',
+  tagline: '在这里你可以找到许多有用的API',
+  url: 'https://docusaurus-2-xiaozhu2007.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'xiaozhu2021', // Usually your GitHub org/user name.
   projectName: 'doc', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Xiaozhu API Doc',
+      title: '小猪的API文档',
       logo: {
         alt: 'Xiaozhu API Doc Logo',
         src: 'img/logo.svg',
@@ -35,17 +35,17 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: '欢迎',
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
+              label: '开始使用',
               to: 'docs/doc2',
             },
           ],
         },
         {
-          title: 'Community',
+          title: '社区',
           items: [
             {
               label: 'Stack Overflow',
@@ -62,20 +62,20 @@ module.exports = {
           ],
         },
         {
-          title: 'More',
+          title: '更多',
           items: [
             {
-              label: 'Blog',
+              label: '博客',
               to: 'blog',
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/xiaozhu2021/doc',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Xiaozhu API Doc.`,
     },
   },
   presets: [
