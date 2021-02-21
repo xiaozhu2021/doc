@@ -6,7 +6,7 @@ sidebar_label: 基本语法
 
 :::tip
 在开始编写API文档前，你必须知道一些文档语法
-
+:::
 您可以使用 [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
 # MarkDown语法
