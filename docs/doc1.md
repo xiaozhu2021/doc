@@ -2,5 +2,5 @@
 id: doc1
 title: 开始使用
 ---
-
-This is a link to [another document.](doc3.md) This is a link to an [external page.](http://www.example.com)
+:::warning
+目前还没有任何API，无法生成文档
