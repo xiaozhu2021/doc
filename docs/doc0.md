@@ -1,7 +1,7 @@
 ---
-id: doc1
+id: doc0
 title: Style Guide
-sidebar_label: Style Guide
+sidebar_label: 基本语法
 ---
 
 You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
