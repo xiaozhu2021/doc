@@ -35,12 +35,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: '欢迎',
-              to: 'docs/doc1',
+              label: '语法',
+              to: 'docs/doc0',
             },
             {
               label: '开始使用',
-              to: 'docs/doc2',
+              to: 'docs/doc1',
             },
           ],
         },
