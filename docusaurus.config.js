@@ -70,7 +70,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/xiaozhu2021/doc',
+              href: 'https://github.com/xiaozhu2021',
             },
           ],
         },
@@ -86,13 +86,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/xiaozhu2021/doc/edit/master/doc/',
+            'https://github.com/xiaozhu2021/doc/edit/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/xiaozhu2021/doc/edit/master/blog/',
+            'https://github.com/xiaozhu2021/doc/edit/master/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
