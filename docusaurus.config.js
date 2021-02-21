@@ -8,7 +8,7 @@ module.exports = {
   projectName: 'doc', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: '小猪的API文档',
+      title: '小猪文档',
       logo: {
         alt: 'Xiaozhu API Doc Logo',
         src: 'img/logo.svg',
@@ -75,7 +75,7 @@ module.exports = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Xiaozhu API Doc.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Xiaozhu API Doc.Powered By 小猪文档 and Vercel`,
     },
   },
   presets: [
