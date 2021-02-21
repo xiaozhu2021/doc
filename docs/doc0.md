@@ -4,11 +4,12 @@ title: Style Guide
 sidebar_label: 基本语法
 ---
 
-You can write content using [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
+:::tip
+在开始编写API文档前，你必须知道一些文档语法
 
-## Markdown Syntax
+您可以使用 [GitHub-flavored Markdown syntax](https://github.github.com/gfm/).
 
-To serve as an example page when styling markdown based Docusaurus sites.
+# MarkDown语法
 
 ## Headers
 
